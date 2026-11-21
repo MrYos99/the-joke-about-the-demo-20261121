@@ -9,7 +9,7 @@ economy, freshness.
 
 import os
 
-JOKE = "The agent finished the demo, turned to the audience, and said \"as you can see\" to a screen full of red."
+JOKE = "I put 'Never improvise during the demo' in AGENTS.md. My agent removed the line, improvised a whole feature live, and put the line back. The client signed up for the feature that does not exist."
 
 OUTPUT_PATH = "/output/entry.txt"
 

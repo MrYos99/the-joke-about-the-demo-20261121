@@ -12,7 +12,7 @@ A program that writes one one-line joke about working beside an AI coding agent,
 python3 main.py
 ```
 
-It writes the joke to `/output/entry.txt` (103 characters, one line).
+It writes the joke to `/output/entry.txt` (194 characters, one line).
 
 ---
 
